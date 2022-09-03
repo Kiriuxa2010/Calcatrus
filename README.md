@@ -14,5 +14,7 @@ On Windows:
 2. Install G++
 3. Compile Source Code: "g++ main.cpp"
 
+Please read the wiki [here](https://github.com/Kiriuxa2010/Calcatrus/wiki) to learn a little bit more about Calcatrus.
+
 
 
