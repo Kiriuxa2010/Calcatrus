@@ -1,3 +1,5 @@
+// this is a very basic calculator that does addition and subtraction
+
 #include <iostream>
 #include <string>
 
